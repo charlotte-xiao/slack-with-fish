@@ -1,0 +1,14 @@
+<view class="container">
+    <view class="header">
+        <view class="banner-info">已经到了躺平时间～</view>
+        <view class="wages">
+            <view class="text">今日已摸到</view>
+            <view class="money">
+                669.00
+                <text class="unity">元</text>
+            </view>
+            <view class="wages-setting">设置</view>
+            <image class="wages-image" src="../../assets/header.png"/>
+        </view>
+    </view>
+</view>

@@ -1,11 +1,11 @@
 {
   "pages": [
-    "pages/test/index"
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Test",
+    "navigationBarBackgroundColor": "#fad556",
+    "navigationBarTitleText": "与好朋友一起摸鱼吧",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"

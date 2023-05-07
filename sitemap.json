@@ -1,5 +1,5 @@
 {
-  "desc": "关于本项目的更多信息,可访问项目主页 https://github.com/charlotte-xiao/chips-maopu",
+  "desc": "关于本项目的更多信息,可访问项目主页 https://github.com/charlotte-xiao/slack-with-fish",
   "rules": [{
   "action": "allow",
   "page": "*"

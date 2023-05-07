@@ -1,0 +1,63 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    background-color: #fad556;
+}
+
+.header {
+    height: 30%;
+}
+
+.header .banner-info {
+    text-align: center;
+    padding: 1rem 0 0.5rem 0;
+}
+
+.header .wages {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #fff;
+    border-radius: 1.25rem;
+    padding: 0.75rem 0.75rem 0.25rem 0.75rem;
+    width: 92%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.wages .wages-image {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 18rpx;
+    width: 310rpx;
+    height: 310rpx;
+}
+
+.wages .wages-setting {
+    height: 1.2rem;
+    line-height: 1.2rem;
+    width: 3.5rem;
+    background: #f4f4f6;
+    border-radius: 1rem;
+    font-size: 27rpx;
+    text-align: center;
+    margin: 0.5rem 0 0 0.1rem;
+}
+
+.wages .text {
+    color: #333;
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.wages .money {
+    color: #333;
+    font-size: 65rpx;
+    font-weight: 700;
+    margin-top: 0.25rem;
+}
+
+.wages .unity {
+    font-size: 15px;
+}
+

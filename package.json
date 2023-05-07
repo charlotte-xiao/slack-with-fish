@@ -1,7 +1,7 @@
 {
-  "name": "chips-maopu",
+  "name": "slack-with-fish",
   "version": "1.0.0",
-  "description": "Personal improved version from zhongdamaopu",
+  "description": "Hava a good day and enjoy yourself~",
   "dependencies": {
     "minapp-sdk": "^3.22.0"
   },

@@ -1,4 +1,4 @@
-# chips-maopu
+# slack-with-fish
 
 > 开发工具版本
 ```
