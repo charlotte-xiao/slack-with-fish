@@ -1,0 +1,50 @@
+<view>
+    <view>
+        <view>设置薪资</view>
+        <view>
+            <view>上班时间</view>
+            <view class="section">
+                <picker mode="time" bindchange="changeWorkStartTime">
+                    {{workInfo.workStartTime}}
+                </picker>
+            </view>
+        </view>
+        <view>
+            <view>下班时间</view>
+            <view class="section">
+                <picker mode="time" bindchange="changeWorkEndTime">
+                    {{workInfo.workEndTime}}
+                </picker>
+            </view>
+        </view>
+        <view>
+            <view>平均月薪</view>
+            <view class="section">
+
+            </view>
+        </view>
+        <view>
+            <view>月工作天数</view>
+            <view class="section">
+
+            </view>
+        </view>
+        <view>
+            <view>工资日</view>
+            <view class="section">
+
+            </view>
+        </view>
+        <view>
+            <view>上班时间</view>
+            <view class="section">
+
+            </view>
+        </view>
+
+    </view>
+    <view>
+        <view>取消</view>
+        <view>确定</view>
+    </view>
+</view>

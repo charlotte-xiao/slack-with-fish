@@ -11,4 +11,5 @@
             <image class="wages-image" src="../../assets/header.png"/>
         </view>
     </view>
+    <view bindtap="saveWorkInfo">保存测试</view>
 </view>
