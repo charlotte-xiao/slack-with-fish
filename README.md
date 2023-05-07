@@ -1,2 +1,7 @@
 # chips-maopu
-personal improved version from zhongdamaopu
+
+> 开发工具版本
+```
+node v18.16.0
+npm 9.5.1
+```

@@ -1,0 +1,13 @@
+{
+  "name": "chips-maopu",
+  "version": "1.0.0",
+  "description": "Personal improved version from zhongdamaopu",
+  "dependencies": {
+    "minapp-sdk": "^3.22.0"
+  },
+  "scripts": {
+    "test": "echo 'test success~'"
+  },
+  "author": "charlotte-xiao",
+  "license": "Apache License"
+}

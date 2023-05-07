@@ -1,0 +1,9 @@
+<view class="index">
+    <view class="index-profile">
+        <open-data type="userAvatarUrl" class="index-profile__img"></open-data>
+    </view>
+    <view class="index-title">
+        {{ title }}
+    </view>
+    <button bindtap="addBook">add</button>
+</view>

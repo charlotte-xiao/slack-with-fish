@@ -1,0 +1,7 @@
+{
+  "desc": "关于本项目的更多信息,可访问项目主页 https://github.com/charlotte-xiao/chips-maopu",
+  "rules": [{
+  "action": "allow",
+  "page": "*"
+  }]
+}
